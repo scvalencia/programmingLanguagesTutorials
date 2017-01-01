@@ -1,4 +1,4 @@
-smlTutorial
+Standard-ML Tutorial
 ===========
 
-A nice collection of exercises that helped me to understand the basics of Functional Porgramming via Standard-ML
+A collection of exercises that helped me to understand the basics of Functional Porgramming via Standard-ML

@@ -1,4 +1,4 @@
-scalaTutorial
+Scala Tutorial
 =============
 
 Basic tutorial for Scala self study

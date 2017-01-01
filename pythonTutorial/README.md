@@ -1,4 +1,4 @@
-pythonTutorial
+Python Tutorial
 ==============
 
-A short tutorial (collection of exercises) to earn how to program great thing using Python
+A short tutorial (collection of exercises) to learn how to program in Python

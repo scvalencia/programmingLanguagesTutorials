@@ -1,4 +1,4 @@
-cTutorial
+The C Programming Language
 =========
 
-A basic tutorial to tech myself to program in the C programming languaje
+Resources, and exercises aimed to learn C
