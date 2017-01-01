@@ -1,4 +1,0 @@
-Eckel
-Horstmann
-Lewis
-Odersky
