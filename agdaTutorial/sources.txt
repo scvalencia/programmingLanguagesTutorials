@@ -1,0 +1,3 @@
+http://hookrace.net/blog/what-is-special-about-nim/
+http://nim-lang.org/
+http://nim-lang.org/tut1.html
