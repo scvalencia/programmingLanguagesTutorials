@@ -1,0 +1,7 @@
+Hansen 11, 12, 13
+Michelson
+Paulson 7
+Reade 7
+Sokolowski 8, 9
+Ullman 8
+Wikstrom

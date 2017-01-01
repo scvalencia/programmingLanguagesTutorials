@@ -1,0 +1,10 @@
+Antonakos 5
+Bronson
+Brooks 8, 9, 10
+Deitel
+Gottfried 8
+Hanly 6, 12
+Horton 8
+King 7, 10, 15, 19
+Kochan 15, 18, C, D
+Pohl

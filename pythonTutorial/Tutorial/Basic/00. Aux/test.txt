@@ -1,0 +1,9 @@
+I think there are two problems.
+
+Firstly, what is the point in reading all of the words into a list? Why not process each word in turn and print it if it's a palindrome.
+
+Secondly, watch out for whitespace. You have newlines at the end of each of your words!
+
+Since you're not identifying any palindromes (due to the whitespace), you're going to attempt to remove every item from the list. While you're iterating over it!
+
+This solution runs in well under a second and identifies lots of palindromes:

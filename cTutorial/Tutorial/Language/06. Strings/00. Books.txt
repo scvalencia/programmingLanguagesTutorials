@@ -1,0 +1,9 @@
+Antonakos 6
+Bronson 11
+Deitel 8
+Gottfried 10
+Hanly 8
+Horton 6
+King 13
+Kochan 10
+Pohl 6

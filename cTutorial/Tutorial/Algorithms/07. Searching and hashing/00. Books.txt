@@ -1,0 +1,14 @@
+Aho 7
+Binstock 3, 4
+Brass 9
+Esakov 8
+Forouzan 13
+Gonnet 3
+Heineman 5
+Kalicharan 1, 11
+Langsman 7
+Loudon 7, 8, 12
+Standish 11
+Sedgewick 14, 16 .. 18
+Sedgewick (1 - 4) 12, 14 .. 16
+Weiss 5

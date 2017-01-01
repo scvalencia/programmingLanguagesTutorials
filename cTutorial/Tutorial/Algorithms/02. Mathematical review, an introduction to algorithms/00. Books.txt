@@ -1,0 +1,15 @@
+Aho 2, 3, 4
+Binstock 1
+Brass 10
+Esakov
+Forouzan E
+Gonnet 1, 2, I
+Heineman 1, 2, 3
+Kalicharan
+Langsman 1
+Loudon 1, 4
+Standish 1, 6, APENDIX
+Sedgewick 1, 6, 7
+Sedgewick (1 - 4) 1, 2
+Straub 3
+Weiss 1, 2
